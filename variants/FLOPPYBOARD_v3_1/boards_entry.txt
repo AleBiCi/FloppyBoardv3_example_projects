@@ -1,0 +1,15 @@
+# Custom STM32G031F8P3 board
+floppyboard_v3_1.name=floppyboard_v3_1
+
+floppyboard_v3_1.build.variant=floppyboard_v3_1
+floppyboard_v3_1.build.core=arduino
+floppyboard_v3_1.build.series=STM32G0xx
+floppyboard_v3_1.build.board=STM32G031xx
+floppyboard_v3_1.build.product_line=STM32G031F8
+floppyboard_v3_1.build.mcu=STM32G031F8P3
+
+floppyboard_v3_1.upload.protocol=serial
+floppyboard_v3_1.upload.maximum_size=65536
+floppyboard_v3_1.upload.maximum_data_size=8102
+floppyboard_v3_1.upload.use_1200bps_touch=false
+floppyboard_v3_1.upload.wait_for_upload_port=false
