@@ -1,4 +1,4 @@
-# FloppyBoardv3 example projects
+# Floppy Board v3.1 example projects
 Two basic blink projects for Floppy Board v3.1 (64k flash)
 
 ## Contents
@@ -7,3 +7,9 @@ Two basic blink projects for Floppy Board v3.1 (64k flash)
 
 ## Dependencies
 WIP
+
+
+## Credits
+The custom boards were made by [Floppy Lab](https://github.com/FloppyO1);
+
+Link to his [Floppy Boards repo](https://github.com/FloppyO1/Floppy_Boards).
