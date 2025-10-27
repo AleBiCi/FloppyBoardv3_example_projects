@@ -8,6 +8,12 @@ Two basic blink projects for Floppy Board v3.1 (64k flash)
 ## Dependencies
 WIP
 
+## Usage
+- Clone the repo
+- Move the `boards` and/or `variants/FLOPPYBOARD_V3_1` folder(s) in the root PlatformIO project directory
+- Reference the board and/or variants inside the `platformio.ini` file of your project
+- Profit 
+
 
 ## Credits
 The custom boards were made by [Floppy Lab](https://github.com/FloppyO1);
